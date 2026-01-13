@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Dilara 👋
 
-<!--
-**dilara-dinc/dilara-dinc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering student at Muğla Sıtkı Koçman University.
 
-Here are some ideas to get you started:
+### 🔹 Technical Skills
+- Java
+- Python
+- Object-Oriented Programming (OOP)
+- Data Structures
+- Algorithms
+- Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔹 Academic Focus
+- Software Development
+- Backend Systems
+- Algorithmic Problem Solving
+
+📌 This GitHub profile includes my academic and personal projects developed to
+strengthen my software engineering fundamentals.
